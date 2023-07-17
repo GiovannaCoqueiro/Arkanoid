@@ -1,4 +1,7 @@
-<h1>Arkanoid Game Recreation</h1>
+<div align=center>
+  <h1>Arkanoid Game Recreation</h1>
+    <img src="iVBORw0KGgoAAAANSUhEUgAAAW4AAACKCAMAAAC93lCdAAAB" alt=Arkanoid logo/>
+</div>
 
 <p>This project aims to recreate the classic arcade game Arkanoid using the GameMaker engine. Arkanoid is a popular block-breaking game that was originally released in 1986. The objective of the game is to control a paddle and bounce a ball to break all the blocks on the screen.</p>
 
