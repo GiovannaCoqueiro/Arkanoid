@@ -1,7 +1,7 @@
 <div align=center>
   <h1>Arkanoid Game Recreation</h1>
-    <img src="https://github.com/GiovannaCoqueiro/Arkanoid/assets/115947494/ddd429a0-74b1-4904-890a-3c077c35c644" alt=Arkanoid logo/>
-  ![download](https://github.com/GiovannaCoqueiro/Arkanoid/assets/115947494/b3ffe8f3-0c98-4cba-93c2-4eb38a4f0828)
+    <img src="https://github.com/GiovannaCoqueiro/Arkanoid/assets/115947494/b3ffe8f3-0c98-4cba-93c2-4eb38a4f0828" alt=Arkanoid logo/>
+  ![download]([https://github.com/GiovannaCoqueiro/Arkanoid/assets/115947494/b3ffe8f3-0c98-4cba-93c2-4eb38a4f0828](https://github.com/GiovannaCoqueiro/Arkanoid/assets/115947494/ddd429a0-74b1-4904-890a-3c077c35c644))
 
 </div>
 
