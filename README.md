@@ -7,7 +7,13 @@
 
 ---
 
-<h3>Introduction</h3>
+<h3 align=left>Phase 1 Gameplay</h3>
+
+<img src="https://github.com/GiovannaCoqueiro/Arkanoid/blob/main/gif/arkanoid.gif" alt=gameplay/>
+
+---
+
+<h3 align=left>Introduction</h3>
 
 <p>Arkanoid Game Recreation is a project that utilizes the GameMaker engine to recreate the iconic Arkanoid game. The purpose of this project is to provide a modern implementation of the game, allowing players to relive the nostalgic experience or discover the game for the first time.</p>
 
